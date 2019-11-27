@@ -1,0 +1,15 @@
+{
+    "name": "maxence/project",
+    "authors": [
+        {
+            "name": "Waen01",
+            "email": "mottard.maxence@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {}
+}
